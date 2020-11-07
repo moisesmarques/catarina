@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Catarina.Core.Entities
 {
-    public class Imovel
+    public class Imovel: BaseEntity
     {
         public string Titulo { get; set; }
         public string Descricao { get; set; }
@@ -56,5 +56,6 @@ namespace Catarina.Core.Entities
         public int Banheiros { get; set; }
         public bool EspacoGourmet { get; set; }
         public bool BanheiraHidromassagem { get; set; }
+        public virtual ICollection<ImovelImagem> Imagens { get; set; }
     }
 }

@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System;
+using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace Catarina.Data.EntityFramework
@@ -14,8 +16,7 @@ namespace Catarina.Data.EntityFramework
         public CatarinaContext(
             DbContextOptions options,
             IOptions<OperationalStoreOptions> operationalStoreOptions ) : base( options, operationalStoreOptions )
-        {
-        }
+        { }
 
         public DbSet<Pessoa> Pessoas { get; set; }
         public DbSet<Contato> Contatos { get; set; }
@@ -25,11 +26,11 @@ namespace Catarina.Data.EntityFramework
 
         protected override void OnModelCreating( ModelBuilder modelBuilder )
         {
+            modelBuilder.ApplyConfigurationsFromAssembly( Assembly.GetExecutingAssembly() );
+
             ApplicationSeed.Seed( modelBuilder );
 
             base.OnModelCreating( modelBuilder );
         }
     }
-
-
 }

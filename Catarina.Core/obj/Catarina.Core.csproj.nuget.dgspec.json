@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moises\\source\\repos\\catarina\\Catarina.Core\\Catarina.Core.csproj": {}
+    "C:\\Users\\Moises\\source\\repos\\Catarina.Core\\Catarina.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moises\\source\\repos\\catarina\\Catarina.Core\\Catarina.Core.csproj": {
+    "C:\\Users\\Moises\\source\\repos\\Catarina.Core\\Catarina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moises\\source\\repos\\catarina\\Catarina.Core\\Catarina.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Moises\\source\\repos\\Catarina.Core\\Catarina.Core.csproj",
         "projectName": "Catarina.Core",
-        "projectPath": "C:\\Users\\Moises\\source\\repos\\catarina\\Catarina.Core\\Catarina.Core.csproj",
+        "projectPath": "C:\\Users\\Moises\\source\\repos\\Catarina.Core\\Catarina.Core.csproj",
         "packagesPath": "C:\\Users\\Moises\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moises\\source\\repos\\catarina\\Catarina.Core\\obj\\",
+        "outputPath": "C:\\Users\\Moises\\source\\repos\\Catarina.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Moises\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

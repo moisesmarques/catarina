@@ -16,3 +16,12 @@ C:\Users\Moises\source\repos\catarina\Catarina.Service\obj\Debug\netcoreapp3.1\C
 C:\Users\Moises\source\repos\catarina\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.dll
 C:\Users\Moises\source\repos\catarina\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.pdb
 C:\Users\Moises\source\repos\catarina\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.csprojAssemblyReference.cache
+C:\Users\Moises\source\repos\Catarina.Service\bin\Debug\netcoreapp3.1\Catarina.Service.deps.json
+C:\Users\Moises\source\repos\Catarina.Service\bin\Debug\netcoreapp3.1\Catarina.Service.dll
+C:\Users\Moises\source\repos\Catarina.Service\bin\Debug\netcoreapp3.1\Catarina.Service.pdb
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.csprojAssemblyReference.cache
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.AssemblyInfoInputs.cache
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.AssemblyInfo.cs
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.dll
+C:\Users\Moises\source\repos\Catarina.Service\obj\Debug\netcoreapp3.1\Catarina.Service.pdb
